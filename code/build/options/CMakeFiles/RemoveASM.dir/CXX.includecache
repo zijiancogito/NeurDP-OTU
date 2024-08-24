@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/caoy/proj/tools/code/options/removeASM.cpp
+removeASM.h
+/home/caoy/proj/tools/code/options/removeASM.h
+
+/home/caoy/proj/tools/code/options/removeASM.h
+string
+-
+iostream
+-
+map
+-
+

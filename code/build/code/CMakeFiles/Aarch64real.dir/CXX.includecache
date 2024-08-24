@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/caoy/proj/tools/code/code/aarch64real.cpp
+regex
+-
+cstdlib
+-
+aarch64real.h
+/home/caoy/proj/tools/code/code/aarch64real.h
+
+/home/caoy/proj/tools/code/code/aarch64real.h
+code.h
+/home/caoy/proj/tools/code/code/code.h
+../options/removeASM.h
+/home/caoy/proj/tools/code/options/removeASM.h
+string
+-
+regex
+-
+
+/home/caoy/proj/tools/code/code/code.h
+jsoncpp/json/json.h
+-
+iostream
+-
+string
+-
+fstream
+-
+map
+-
+
+/home/caoy/proj/tools/code/options/removeASM.h
+string
+-
+iostream
+-
+map
+-
+

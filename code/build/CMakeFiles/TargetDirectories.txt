@@ -1,0 +1,13 @@
+/home/caoy/proj/tools/code/build/CMakeFiles/rebuild_cache.dir
+/home/caoy/proj/tools/code/build/CMakeFiles/edit_cache.dir
+/home/caoy/proj/tools/code/build/CMakeFiles/debugall.dir
+/home/caoy/proj/tools/code/build/options/CMakeFiles/rebuild_cache.dir
+/home/caoy/proj/tools/code/build/options/CMakeFiles/edit_cache.dir
+/home/caoy/proj/tools/code/build/options/CMakeFiles/RemoveIR.dir
+/home/caoy/proj/tools/code/build/options/CMakeFiles/RemoveASM.dir
+/home/caoy/proj/tools/code/build/code/CMakeFiles/rebuild_cache.dir
+/home/caoy/proj/tools/code/build/code/CMakeFiles/edit_cache.dir
+/home/caoy/proj/tools/code/build/code/CMakeFiles/Ir.dir
+/home/caoy/proj/tools/code/build/code/CMakeFiles/Aarch64Asm.dir
+/home/caoy/proj/tools/code/build/code/CMakeFiles/Aarch64real.dir
+/home/caoy/proj/tools/code/build/code/CMakeFiles/Code.dir

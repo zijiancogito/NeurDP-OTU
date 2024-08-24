@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIr.a  CMakeFiles/Ir.dir/Ir.cpp.o
+/usr/bin/ranlib libIr.a

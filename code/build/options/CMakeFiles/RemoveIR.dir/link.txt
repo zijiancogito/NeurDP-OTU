@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRemoveIR.a  CMakeFiles/RemoveIR.dir/removeIR.cpp.o
+/usr/bin/ranlib libRemoveIR.a

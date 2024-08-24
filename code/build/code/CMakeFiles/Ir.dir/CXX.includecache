@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/caoy/proj/tools/code/code/Ir.cpp
+regex
+-
+Ir.h
+/home/caoy/proj/tools/code/code/Ir.h
+
+/home/caoy/proj/tools/code/code/Ir.h
+code.h
+/home/caoy/proj/tools/code/code/code.h
+../options/removeIR.h
+/home/caoy/proj/tools/code/options/removeIR.h
+string
+-
+
+/home/caoy/proj/tools/code/code/code.h
+jsoncpp/json/json.h
+-
+iostream
+-
+string
+-
+fstream
+-
+map
+-
+
+/home/caoy/proj/tools/code/options/removeIR.h
+string
+-
+iostream
+-
+map
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/debugall.dir/opsequence.cpp.o  -o debugall  code/libAarch64Asm.a code/libIr.a code/libCode.a -lgflags -ljsoncpp 

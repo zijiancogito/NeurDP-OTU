@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/opsequence.dir/opsequence.cpp.o  -o opsequence data/libAarch64Asm.a data/libIr.a data/libCode.a -lgflags -ljsoncpp 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAarch64real.a  CMakeFiles/Aarch64real.dir/aarch64real.cpp.o
+/usr/bin/ranlib libAarch64real.a

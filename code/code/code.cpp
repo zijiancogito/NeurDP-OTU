@@ -1,0 +1,4 @@
+namespace code
+{
+
+} // namespace code

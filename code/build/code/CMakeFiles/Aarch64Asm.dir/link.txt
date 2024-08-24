@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAarch64Asm.a  CMakeFiles/Aarch64Asm.dir/aarch64Asm.cpp.o
+/usr/bin/ranlib libAarch64Asm.a

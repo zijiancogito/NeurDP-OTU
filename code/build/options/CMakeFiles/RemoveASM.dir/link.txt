@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRemoveASM.a  CMakeFiles/RemoveASM.dir/removeASM.cpp.o
+/usr/bin/ranlib libRemoveASM.a
